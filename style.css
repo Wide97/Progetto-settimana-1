@@ -139,6 +139,7 @@ h3{
 }
 .ul{
     margin-top: 40px;
+    list-style-type: none;
 }
 .footer-a{
     padding-top:50px;
@@ -151,6 +152,8 @@ h3{
 }
 .footer ul li{
     color:#c8e7f0 ;
+    margin-top: 10px;
+    
 }
 .footer h2{
     color: white;
