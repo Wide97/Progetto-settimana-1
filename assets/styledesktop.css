@@ -16,3 +16,51 @@ body{
     padding-left: 60px;
     background-color: black;
 }
+.header{
+    background-image: url(../images/banner.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.header h2{
+    padding-top: 200px;
+    color: #25a2c3;
+    padding-bottom: 30px;
+}
+h2{
+    font-family: "montserrat", sans-serif;
+    font-size: 2rem;
+    line-height: 2rem;
+}
+.header p{
+    padding-left: 25%;
+    padding-right: 25%;
+    padding-bottom: 30px;
+}
+.button button{
+    background-color:#f04c2f ;
+    border: none;
+    color: white;
+    width: 200px;
+    height: 60px;
+    font-weight: bold;
+    border-radius: 5px;
+    font-family: "montserrat", sans-serif;
+}
+.button{
+    padding-bottom: 260px;
+}
+.blocka{
+    padding-top: 150px;
+    float: left;
+    width: 50%;
+    padding-bottom: 150px;
+}
+.blockb{
+    padding-top: 170px;
+    float: right;
+    width: 50%;
+    padding-bottom: 150px;
+}
+.notebook img{
+    border-radius: 50%;
+}
