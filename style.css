@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    line-height:1.65rem;
+    font-size: 1.2rem;
+    font-family: "open sans", sans-serif;
+    text-align: center;
+}
+body{
+    width: 500px;
+}
+.logo{
+    width: 90%;
+    height: 100px;
+    text-align: center;
+    background-color: black;
+    padding: 25px;
+    vertical-align: middle;
+}
+.logo img{
+    width: 200px;
+    height: auto;
+    margin-top: 20px;
+}
+header{
+    width: 100%;
+}
+h1{
+    font-family: "montserrat", sans-serif;
+    font-size: 2rem;
+    line-height: 1.5rem;
+}
+.header{
+    background-image:url(./images/banner.jpg);
+    background-size: cover;
+    height: 450px;
+    background-repeat: no-repeat;   
+}
+.header h1 {
+    padding-top:50px;
+}
+.header p{
+    padding: 40px;
+}
+
+
+
