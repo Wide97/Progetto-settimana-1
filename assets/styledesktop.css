@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    line-height:1.65rem;
+    font-size: 1.2rem;
+    font-family: "open sans", sans-serif;
+    text-align: center;
+}
+body{
+    margin: 0 auto;
+}
+.logo{
+    text-align: left;
+   padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 60px;
+    background-color: black;
+}
