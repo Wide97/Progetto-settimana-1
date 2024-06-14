@@ -19,13 +19,13 @@ body{
 }
 .logo img{
     width: 200px;
-    height: auto;
+    height:auto;
     margin-top: 20px;
 }
 header{
     width: 100%;
 }
-h1{
+h2{
     font-family: "montserrat", sans-serif;
     font-size: 2rem;
     line-height: 1.5rem;
@@ -36,12 +36,56 @@ h1{
     height: 450px;
     background-repeat: no-repeat;   
 }
-.header h1 {
+.header h2 {
     padding-top:50px;
+    color: #25a2c3;
 }
 .header p{
     padding: 40px;
 }
-
+.button {
+    padding-top: 10px;
+}
+.button button{
+    background-color:#f04c2f ;
+    border: none;
+    color: white;
+    width: 200px;
+    height: 60px;
+    font-weight: bold;
+    border-radius: 5px;
+    font-family: "montserrat", sans-serif;
+}
+h3{
+    color: #25a2c3;
+    font-size: 1.2rem;
+    font-family:"montserrat",sans-serif;
+    font-weight: bold;
+}
+.article{
+    margin-top: 70px;
+}
+.p{
+    margin-top:20px;
+    margin-bottom: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.notebook img{
+   border-radius: 50%;
+}
+.article1{
+    margin-bottom: 40px;
+}
+.notebook{
+    margin-bottom: 40px;
+}
+.bottom{
+    margin-bottom: 70px;
+}
+.rosso{
+    height: 280px;
+    background-color:#e22d0e ;
+}
 
 
