@@ -110,7 +110,7 @@ h3{
     padding-bottom: 50px;
 }
 .pc-first{
-    border: 1px solid lightgray;
+    border: 1px solid #dee1e3;
     width:90%;
     margin: 0 auto;
     margin-bottom: 40px;
@@ -126,13 +126,51 @@ h3{
 }
 .pc-second{
     margin-top: 30px;
-    border: 1px solid lightgray;
+    border: 1px solid #dee1e3;
     width: 90%;
     margin: 0 auto;
     margin-bottom: 40px;
     border-radius: 5px;
     height: 500px;
 }
-
+.footer{
+    margin-top: 100px;
+    background-color: #25a2c3;
+}
+.ul{
+    margin-top: 40px;
+}
+.footer-a{
+    padding-top:50px;
+}
+.footer-b{
+   padding-bottom: 40px;
+}
+.footer ul li a{
+    color: #c8e7f0;
+}
+.footer ul li{
+    color:#c8e7f0 ;
+}
+.footer h2{
+    color: white;
+}
+.linea{
+    border-top: 1px solid #c8e7f0;
+    padding-bottom: 40px;
+    width: 50%;
+    margin: 0 auto;
+}
+.copy{
+    color:#c8e7f0 ;
+    padding-bottom: 70px;
+}
+.copy a{
+    color: #c8e7f0;
+    font-size: 0.9rem;
+}
+.copy p{
+    font-size: 0.9rem;
+}
 
 
