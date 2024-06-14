@@ -110,12 +110,11 @@ h3{
     padding-bottom: 50px;
 }
 .pc-first{
-    margin-top: 70px;
     border: 1px solid lightgray;
-    width: 440px;
-    margin-left: 30px;
-    margin-right: 30px;
+    width:90%;
+    margin: 0 auto;
     margin-bottom: 40px;
+    margin-top: 70px;
     border-radius: 5px;
     height: 500px;
 }
@@ -128,9 +127,8 @@ h3{
 .pc-second{
     margin-top: 30px;
     border: 1px solid lightgray;
-    width: 440px;
-    margin-left: 30px;
-    margin-right: 30px;
+    width: 90%;
+    margin: 0 auto;
     margin-bottom: 40px;
     border-radius: 5px;
     height: 500px;
